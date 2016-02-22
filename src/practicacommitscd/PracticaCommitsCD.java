@@ -19,6 +19,7 @@ public class PracticaCommitsCD {
         System.out.println("take it easy");
         System.out.println("take it easy 2");
         System.out.println("som-som, paralelo a 'bug'");
+        System.out.println("'hello world' de bug");
     }
     
 }
